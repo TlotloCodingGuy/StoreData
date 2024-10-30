@@ -12,6 +12,9 @@ import java.util.Scanner;
 public class Login {
 
     public static void main(String[] args) {
+        UserLogin userlogin = new UserLogin();
+          
+
         //Create a scanner instance
         Scanner sc = new Scanner(System.in);
         
